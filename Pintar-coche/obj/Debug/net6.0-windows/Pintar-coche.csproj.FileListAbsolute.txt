@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\bin\Debug\net6.0-windows\Pintar-coche.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\bin\Debug\net6.0-windows\Pintar-coche.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\bin\Debug\net6.0-windows\Pintar-coche.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\bin\Debug\net6.0-windows\Pintar-coche.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\bin\Debug\net6.0-windows\Pintar-coche.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\Pintar-coche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\Pintar-coche.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\Pintar-coche.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\Pintar-coche.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\Pintar-coche.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\refint\Pintar-coche.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\Pintar-coche.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\Pintar-coche.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Pintar-coche\obj\Debug\net6.0-windows\ref\Pintar-coche.dll
